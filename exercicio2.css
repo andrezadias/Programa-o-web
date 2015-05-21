@@ -1,0 +1,10 @@
+p {
+
+border: 8px solid black;
+border-top-right-radius: 50px;
+border-bottom-left-radius: 50px;
+padding: 10px 40px 10px 40px;
+margin: 20px 480px ;
+background-color:#C0C0C0 ;
+
+}

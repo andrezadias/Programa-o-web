@@ -1,0 +1,31 @@
+body{
+background-color:#CCFFFF;
+}
+.texto {
+position:absolute;
+border: 13px solid #996633;
+
+top:15%;
+left:15%;
+right:61%;
+bottom:40%;
+padding: 10px 10px 10px 10px;
+background-color:#C0C0C0 ;
+
+
+
+border-radius: 30px;
+opacity:0.80;
+}
+
+h1 {
+text-align: center;
+
+}
+p {
+text-align: center;
+font-size:17px;
+}
+.roma img {
+margin: 0px 40px 0px 100px;
+}
